@@ -1,0 +1,3 @@
+# bank-loan
+using sql, excel, intractive databoard by power bi
+Developed a comprehensive data analysis and visualization solution for a bank's loan portfolio. Utilized SQL for data extraction and transformation, Excel for data cleaning and preliminary analysis, and Power BI for creating interactive dashboards and reports. Analyzed customer demographics, loan performance, and risk factors to identify trends and insights. Created dynamic dashboards that provided real-time insights into loan approvals, defaults, and repayments. Automated data processes to improve efficiency and accuracy in reporting.
